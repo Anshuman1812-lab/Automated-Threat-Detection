@@ -7,6 +7,7 @@ This project implements an automated system for network threat detection and ana
 - *Ethical Hacking:* Implements Python scripts for ethical hacking techniques such as brute-force password cracking and packet manipulation using Scapy.
 - *Network Scanning:* Uses Nmap for network scanning to identify open ports and services.
 - *Threat Analysis:* Integrates OpenAI's GPT-3 API to generate detailed threat analysis reports based on collected data.
+- *Real-Time Alerting:* Includes a basic real-time alerting mechanism to notify of suspicious activity detected in reports.
 - *Automation:* Scripts can be scheduled via cron jobs or tasks for continuous monitoring and analysis.
 
 ## Requirements
@@ -56,5 +57,4 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## Future Enhancements
 Integration of machine learning models for advanced threat detection.
-Real-time alerting mechanisms for immediate response to detected threats.
 Enhanced user interface for easier configuration and monitoring.
